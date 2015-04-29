@@ -1,1 +1,5 @@
-name, date, description
+Jiaju Huang 0530537
+jiajhua@clarkson.edu
+April. 29, 2015
+
+This is supposed to add shadow to lab3. However, after I implemented the code from shadow.js, I cannot find the shadow anywhere.
